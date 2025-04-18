@@ -1,0 +1,5 @@
+marketstack: "0bd98b718928eaecb2ca523716867434"
+alpha_vantage: "JSCBN1FXIYXTRBA2"
+broker:
+  user: "TU_USUARIO"
+  pass: "TU_CONTRASEÑA"
